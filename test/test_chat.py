@@ -5,7 +5,7 @@ Test your RAG system quickly
 
 from config import config
 from rag.rag_chain import create_rag_chain
-from genration.chat_interface import run_chat
+from generation.chat_interface import run_chat
 # from retrieval.retrieval_pipeline import create_retrieval_pipeline
 # from genration.llm import LLMManager
 import logging

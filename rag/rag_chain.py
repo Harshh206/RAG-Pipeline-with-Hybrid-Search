@@ -2,7 +2,7 @@ from langchain_core.documents import Document
 from retrieval.retrieval_pipeline import create_retrieval_pipeline
 from typing import List, Dict, Any, Optional, Generator
 import logging
-from genration.llm import LMManager
+from generation.llm import LMManager
 from config import config
 
 logger = logging.getLogger(__name__)
