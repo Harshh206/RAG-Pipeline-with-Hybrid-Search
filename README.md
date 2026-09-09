@@ -1,4 +1,4 @@
-# QA Chatbot
+# RAG Pipeline 
 
 A Retrieval-Augmented Generation (RAG) chatbot that ingests documents, generates embeddings, stores them in a vector database, and answers questions using a locally-running LLM. No API keys required — all models run locally via Ollama.
 
